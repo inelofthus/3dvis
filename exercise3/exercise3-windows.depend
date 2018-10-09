@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1538571603 source:c:\users\ine\3dvis\exercise3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GLUT/glut.h>
+	"GL/glut.h"
+
+1410172840 c:\users\ine\3dvis\exercise3\gl\glut.h
+	"freeglut_std.h"
+
+1410172840 c:\users\ine\3dvis\exercise3\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
